@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SenhorSombra
+- 👀 I’m interested in  trabalhar como front-end
+- 🌱 I’m currently learning programação fullstack
+- 💞️ I’m looking to collaborate on empresas de programação
+- 📫 How to reach me por meu Whatsapp(11) 98284-9550
