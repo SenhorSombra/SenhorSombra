@@ -17,9 +17,13 @@
     <div><br/>
 
  ## Quem sou eu  
-    Olá meu Nome é Vagner sou aqui de São Paulo tenho como hobby Luta, jogos e programação. 
-    Sou estudante de tecnologia e estou a procura da minha primeira oportunidade de trabalho em tecnologia,
-    trabalhei com produção de itens em aço, guardar e organizar estoque e contato com clientes. 
-    Conheci a Generation por um amigo que fez o curso de Java Mobile.Estudei na ADS na UNIP.
-    Tenho bom trabalho em equipe desenvolvido devido minha experiencia de produção.
-    Tenho objetivo de me tornar um programador Pleno em 3 anos.
+    Olá meu Nome é Vagner eu sou aqui de São Paulo e eu tenho 26 anos, 
+trabalhei como ajudante geral desde os 19 até o ano passado quando sai.
+Trabalhar na minha ultima empresa me agregou diversos tipos conhecimento:
+como eu trabalhava no setor de acabamento gerenciamento de tempo e trabalho em equipe eram necessários todos os dias.
+No meu tempo livre eu gosto de praticar esportes: como ciclismo, luta, também programar e jogar videogame. 
+Me interessei pelo área de tecnologia quando estava no ensino médio e ingressei na faculdade após terminar, 
+Estudei na Analise e Desenvolvimento de Sistemas na UNIP porem não completei a faculdade, 
+pretendo terminar o curso e estou a procura da minha primeira oportunidade de trabalho em tecnologia,
+acredito que tenho potencial para aprender cada vez mais e desde já agradeço seu tempo em me conhecerem meus links de contato estão acima.
+
