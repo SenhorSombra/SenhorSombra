@@ -19,7 +19,7 @@
  ## Quem sou eu  
     Olá meu Nome é Vagner eu sou aqui de São Paulo e eu tenho 26 anos, 
 trabalhei como ajudante geral desde os 19 até o ano passado quando sai.
-Trabalhar na minha ultima empresa me agregou diversos tipos conhecimento:
+Trabalhar na minha ultima empresa me agregou diversos tipos conhecimento
 como eu trabalhava no setor de acabamento gerenciamento de tempo e trabalho em equipe eram necessários todos os dias.
 No meu tempo livre eu gosto de praticar esportes: como ciclismo, luta, também programar e jogar videogame. 
 Me interessei pelo área de tecnologia quando estava no ensino médio e ingressei na faculdade após terminar, 
